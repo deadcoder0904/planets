@@ -2,6 +2,8 @@
 
 > :alien: Store Planets Data using Local Storage & Event Delegation :skull:
 
+# Screenshot
+
 ![Planets](http://imgur.com/P3KFofM.png)
 
 ## License
